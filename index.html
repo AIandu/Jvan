@@ -6,64 +6,105 @@
   <title>Repair To Go – Erbil | تصليح متنقّل – أربيل</title>
   <meta name="description" content="Mobile phone repair in Erbil. We come to you. Fast, honest, free community service." />
   <style>
+    /* --- Fonts & Base --- */
     body {
       margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
-      background: #f7f9fc;
-      color: #1f2937;
+      font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+      background: #f7f7f7;
+      color: #111827;
       line-height: 1.6;
     }
+
     .container {
       max-width: 900px;
       margin: auto;
-      padding: 40px 20px;
+      padding: 20px;
     }
-    header {
-      text-align: center;
-      margin-bottom: 50px;
+
+    h1, h2 {
+      margin: 0 0 15px 0;
     }
+
     h1 {
-      font-size: 2.5rem;
-      margin-bottom: 10px;
+      font-size: 3rem;
+      font-weight: 700;
     }
+
     h2 {
-      margin-top: 50px;
-      font-size: 1.6rem;
+      font-size: 1.8rem;
+      color: #1e40af;
     }
+
     .arabic {
       direction: rtl;
       font-size: 1.1rem;
-      margin-top: 10px;
+      color: #1e40af;
+      font-weight: 500;
+      margin-top: 8px;
     }
+
     .tagline {
       font-size: 1.2rem;
-      color: #2563eb;
+      color: #f7fafc;
+      margin-top: 10px;
     }
-    .button {
-      display: inline-block;
-      margin-top: 20px;
-      padding: 12px 24px;
-      background: #2563eb;
+
+    /* --- Header --- */
+    header {
+      background: #1e40af;
       color: white;
-      text-decoration: none;
-      border-radius: 8px;
-      font-weight: 600;
+      text-align: center;
+      padding: 60px 20px;
+      border-bottom: 5px solid #a0522d;
+      border-radius: 0 0 12px 12px;
     }
+
+    /* --- Sections --- */
+    section {
+      background: white;
+      padding: 40px 20px;
+      margin: 30px 0;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    }
+
     ul {
       padding-left: 20px;
     }
+
+    /* --- Buttons --- */
+    .button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 30px;
+      background: #a0522d;
+      color: white;
+      font-weight: 700;
+      border-radius: 10px;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+
+    .button:hover {
+      background: #7b3f1f;
+    }
+
+    /* --- Footer --- */
     footer {
-      margin-top: 80px;
+      margin-top: 40px;
       text-align: center;
       font-size: 0.9rem;
       color: #6b7280;
+      padding-bottom: 20px;
     }
+
   </style>
 </head>
 <body>
 
   <div class="container">
 
+    <!-- HEADER -->
     <header>
       <h1>Repair To Go – Erbil</h1>
       <div class="arabic">تصليح متنقّل – أربيل</div>
@@ -74,6 +115,7 @@
       <a class="button" href="tel:7511990451">Call / WhatsApp</a>
     </header>
 
+    <!-- ABOUT -->
     <section>
       <h2>Mobile Phone Repair in Erbil</h2>
       <p>
@@ -87,6 +129,7 @@
       </p>
     </section>
 
+    <!-- SERVICES -->
     <section>
       <h2>Services | الخدمات</h2>
       <ul>
@@ -105,6 +148,7 @@
       </ul>
     </section>
 
+    <!-- HOW IT WORKS -->
     <section>
       <h2>How It Works | كيف نعمل</h2>
       <ul>
@@ -119,6 +163,7 @@
       </ul>
     </section>
 
+    <!-- MISSION -->
     <section>
       <h2>Our Mission | مهمتنا</h2>
       <p>
@@ -131,6 +176,7 @@
       </p>
     </section>
 
+    <!-- CONTACT -->
     <section>
       <h2>Contact | التواصل</h2>
       <p>
@@ -143,6 +189,7 @@
       </p>
     </section>
 
+    <!-- FOOTER -->
     <footer>
       Repair To Go – Erbil • Community First • Honest Service
     </footer>
