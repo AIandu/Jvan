@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Repair To Go – Erbil | تصليح متنقّل – أربيل</title>
+  <meta name="description" content="Mobile phone repair in Erbil. We come to you. Fast, honest, free community service." />
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      background: #f7f9fc;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    h2 {
+      margin-top: 50px;
+      font-size: 1.6rem;
+    }
+    .arabic {
+      direction: rtl;
+      font-size: 1.1rem;
+      margin-top: 10px;
+    }
+    .tagline {
+      font-size: 1.2rem;
+      color: #2563eb;
+    }
+    .button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #2563eb;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 600;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      margin-top: 80px;
+      text-align: center;
+      font-size: 0.9rem;
+      color: #6b7280;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <header>
+      <h1>Repair To Go – Erbil</h1>
+      <div class="arabic">تصليح متنقّل – أربيل</div>
+      <p class="tagline">
+        We come to you. Fast. Honest. Free.<br />
+        <span class="arabic">نجيك للمكان. سريع. أمين. مجاني.</span>
+      </p>
+      <a class="button" href="tel:7511990451">Call / WhatsApp</a>
+    </header>
+
+    <section>
+      <h2>Mobile Phone Repair in Erbil</h2>
+      <p>
+        Repair To Go provides mobile phone repair services across Erbil.
+        We travel directly to you to repair your phone quickly and honestly,
+        especially for people who cannot easily reach a repair shop.
+      </p>
+      <p class="arabic">
+        تقدم خدمة تصليح متنقّل – أربيل تصليح الموبايلات في جميع مناطق أربيل.
+        نصل إليك مباشرة لإصلاح هاتفك بسرعة وأمان، خصوصًا لمن لا يستطيع الوصول إلى محل تصليح.
+      </p>
+    </section>
+
+    <section>
+      <h2>Services | الخدمات</h2>
+      <ul>
+        <li>Screen replacement</li>
+        <li>Battery problems</li>
+        <li>Charging port repair</li>
+        <li>Software issues</li>
+        <li>Phone diagnostics</li>
+      </ul>
+      <ul class="arabic">
+        <li>تبديل شاشة</li>
+        <li>مشاكل البطارية</li>
+        <li>تصليح مدخل الشحن</li>
+        <li>مشاكل البرامج</li>
+        <li>فحص الهاتف</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>How It Works | كيف نعمل</h2>
+      <ul>
+        <li>Call or message</li>
+        <li>I come to your location</li>
+        <li>Phone repaired on-site when possible</li>
+      </ul>
+      <ul class="arabic">
+        <li>اتصال أو رسالة</li>
+        <li>أصل إلى مكانك</li>
+        <li>يتم التصليح في نفس المكان إن أمكن</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Our Mission | مهمتنا</h2>
+      <p>
+        This service is provided <strong>free</strong> to support the community.
+        Helping people stay connected is more important than profit.
+      </p>
+      <p class="arabic">
+        هذه الخدمة مقدمة <strong>مجانًا</strong> لدعم المجتمع.
+        مساعدة الناس على البقاء متصلين أهم من الربح.
+      </p>
+    </section>
+
+    <section>
+      <h2>Contact | التواصل</h2>
+      <p>
+        📞 Phone / WhatsApp: <strong>751-199-0451</strong><br />
+        📧 Email: <strong>sedajvan@gmail.com</strong><br />
+        📍 Service Area: Erbil
+      </p>
+      <p class="arabic">
+        متوفر في أربيل والمناطق المحيطة
+      </p>
+    </section>
+
+    <footer>
+      Repair To Go – Erbil • Community First • Honest Service
+    </footer>
+
+  </div>
+
+</body>
+</html>
